@@ -18,4 +18,8 @@ public class chuizige {
     public String wl() {
         return "Webhook is success!";
     }
+    @GetMapping("/wl1")
+    public String wl1() {
+        return "Webhook is success!111111111111";
+    }
 }
