@@ -14,4 +14,8 @@ public class chuizige {
     public String uutest() {
         return "MessgeInfo:just for testing";
     }
+    @GetMapping("/wl")
+    public String wl() {
+        return "Webhook is success!";
+    }
 }
