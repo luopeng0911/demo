@@ -24,6 +24,6 @@ public class chuizige {
     }
     @GetMapping("/wle")
     public String wle() {
-        return "Webhook is success!END";
+        return "你是一个大水怪！";
     }
 }
