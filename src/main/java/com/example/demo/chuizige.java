@@ -24,6 +24,6 @@ public class chuizige {
     }
     @GetMapping("/wle")
     public String wle() {
-        return "你说的很有道理！";
+        return "大哥有理！";
     }
 }
