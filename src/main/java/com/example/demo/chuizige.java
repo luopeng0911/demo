@@ -24,6 +24,10 @@ public class chuizige {
     }
     @GetMapping("/wle")
     public String wle() {
-        return "可爱有型钢重要吗！";
+        return "啦啦啦啦啦啦啦啦绿绿";
+    }
+    @GetMapping("/wlee")
+    public String wlee() {
+        return "深深深深";
     }
 }
