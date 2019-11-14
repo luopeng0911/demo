@@ -24,6 +24,6 @@ public class chuizige {
     }
     @GetMapping("/wle")
     public String wle() {
-        return "Liseten to the real men";
+        return "解决403！";
     }
 }
