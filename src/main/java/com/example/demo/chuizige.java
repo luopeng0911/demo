@@ -24,6 +24,6 @@ public class chuizige {
     }
     @GetMapping("/wle")
     public String wle() {
-        return "解决403！";
+        return "解决403！嗯哼";
     }
 }
